@@ -206,6 +206,7 @@
        "<p>5000000 rows × 8 columns</p>\n",
        "</div>"
       ],
+      # Data 
       "text/plain": [
        "                                   key  fare_amount          pickup_datetime  \\\n",
        "0          2009-06-15 17:26:21.0000001        4.500  2009-06-15 17:26:21 UTC   \n",
